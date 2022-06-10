@@ -1,11 +1,11 @@
 # DDL - DML
 
-## Data Defination Language – ( DDL ) – Veri Tanýmlama Dili: Create,Drop ve Alter komutlarýndan oluþan DDL,veritabaný nesnelerini oluþturma,deðiþtirme ve silme iþlemleri için kullanýlýr.
-## Data Manipulation Language – ( DML ) – Veri Ýþleme Dili : Insert, Delete , Update gibi komutlarla oluþturulan ifadeler, kayýt ekleme, silme ve güncelleme iþlemleri için kullanýlýr.
-## Ayný klasördeki chetsheet'de gerekli bilgiler var daha fazla yazmýyorum o yüzden.
+## Data Defination Language â€“ ( DDL ) â€“ Veri Tanimlama Dili: Create,Drop ve Alter komutlarindan oluÃ¾an DDL,veritabani nesnelerini olusturma,degistirme ve silme islemleri iÃ§in kullanilir.
+## Data Manipulation Language â€“ ( DML ) â€“ Veri Isleme Dili : Insert, Delete , Update gibi komutlarla olusturulan ifadeler, kayit ekleme, silme ve gÃ¼ncelleme islemleri iÃ§in kullanilir.
+## Ayni klasÃ¶rdeki chetsheet'de gerekli bilgiler var daha fazla yazmiyorum o yÃ¼zden.
 
 
-# Tablo Yaratma iþlemi 
+# Tablo Yaratma Islemi 
 
 ## Category , Product, ProductFeature
 
@@ -13,7 +13,7 @@
  CREATE TABLE [IF NOT EXIST] PRODUCT ()
  CREATE TABLE [IF NOT EXIST] PRODUCTFEATURE ()
 
-# Tablolar Arasý Ýliþki
+# Tablolar Arasi Iliski
 
 ## Category - Product
 
